@@ -1,0 +1,45 @@
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Octave
+    Scope
+    VCA
+VCV: VCV Core
+    Audio 2
+RareBreeds: Orbits
+    Eugene
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Quantum
+Little Utils: Little Utils (https://github.com/mgunyho/Little-Utils)
+    Teleport In
+    Teleport Out
+Impromptu: Impromptu
+    Clocked
+    GateSeq64
+Frozen Wasteland: Frozen Wasteland (https://github.com/almostEric/FrozenWasteland/blob/master/README.md)
+    BPM LFO 2
+Fehler Fabrik: Fehler Fabrik (https://github.com/RCameron93/FehlerFabrik/blob/master/README.md)
+    PSI OP
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Chances - bernoulli gate
+    Sample & Hold
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    4FO
+    ADDR-SEQ
+    ANALYZER
+    ASX
+    FM-OP
+    MIX4
+    WALK
+    WALK2
+Befaco: Befaco (https://vcvrack.com/Befaco)
+    Kickall
+Axioma: Axioma
+    Ikeda
+Alright Devices: Alright Devices
+    Chronoblob2
