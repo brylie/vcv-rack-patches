@@ -1,0 +1,48 @@
+docB: dbRackSequencer (https://github.com/docb/dbRackSequencer)
+    CYC
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Quantizer
+    Scope
+    VCA
+VCV: VCV Core
+    Audio 2
+Squinky Labs: Squinky Labs (https://github.com/kockie69/SquinkyVCV-main/blob/master/README.md)
+    EV3
+    F2
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+Little Utils: Little Utils (https://github.com/mgunyho/Little-Utils)
+    Teleport In
+    Teleport Out
+Impromptu: Impromptu
+    Clocked
+Frozen Wasteland: Frozen Wasteland (https://github.com/almostEric/FrozenWasteland/blob/master/README.md)
+    BPM LFO
+    BPM LFO 2
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Chances - bernoulli gate
+    Clock Divider
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    8:1
+    AD
+    ANALYZER
+    LVCF
+    MIX4
+    RGATE
+    S&H
+    WALK2
+Befaco: Befaco (https://vcvrack.com/Befaco)
+    Spring Reverb
+Axioma: Axioma
+    Ikeda
+    Rhodonea
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Texture Synthesizer
+    Tidal Modulator 2
+Alright Devices: Alright Devices
+    Chronoblob2

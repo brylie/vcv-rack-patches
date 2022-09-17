@@ -1,0 +1,55 @@
+cvly: cvly
+    bss
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Recorder
+    Recorder
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Delay
+    Split
+    VCF
+    Wavetable LFO
+VCV: VCV Core
+    Audio 2
+    MIDI Map
+Squinky Labs: Squinky Labs (https://github.com/kockie69/SquinkyVCV-main/blob/master/README.md)
+    Comp
+    FM Kitchen Sink
+    Form
+    SFZ Player
+RareBreeds: Orbits
+    Eugene
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Sequential Switch 8->1
+Little Utils: Little Utils (https://github.com/mgunyho/Little-Utils)
+    Teleport In
+    Teleport Out
+JW-Modules: JW-Modules (https://github.com/jeremywen/JW-Modules)
+    NoteSeq16
+Impromptu: Impromptu
+    Clocked
+HetrickCV: HetrickCV (https://github.com/mhetrick/hetrickcv)
+    OR Logic (Gate Combiner)
+Frozen Wasteland: Frozen Wasteland (https://github.com/almostEric/FrozenWasteland/blob/master/README.md)
+    BPM LFO 2
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Attenuator
+    Burst Generator
+    Chances - bernoulli gate
+    Euclidean Sequencer
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    SUMS
+    WALK
+Befaco: Befaco (https://vcvrack.com/Befaco)
+    Kickall
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Liquid Filter
+    Macro Oscillator 2
+AS: AS (https://github.com/AScustomWorks/AS/blob/V2/README.md)
+    AtNuVrTr
+    Phaser Fx
