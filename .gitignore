@@ -5,7 +5,8 @@
 *.mp3
 *.flac
 *.ogg
+*.mpeg
+*.mpg
+*.mov
 .DS_Store
-.mpg
-.mpeg
-.mov
+
