@@ -1,0 +1,33 @@
+TAKENODE CERTIFICATE ID:
+842f2037-5976-40b3-99e4-b5f609b4972e
+
+1. Information about the file
+
+Filename:
+bco-StreaksOfAmberLeaves-2021-10-30.flac
+
+File type:
+audio file
+
+Unique file ID:
+ec7ab790b4bbb81af1dcb876f1ba778b58d6454a67441dfd374201efdea98063
+
+2. Information about the uploader of the file
+
+Name:
+Brylie Christopher Oxley
+
+Upload timestamp:
+1635580036 UNIX
+2021-10-30 09:47:16 Europe/Amsterdam
+
+Contact info:
+brylie@amble.fi
+
+3. Declaration of intention
+
+This audio file is copyright protected and I own all related rights. You can freely adapt, share and build upon this work even for commercial purposes. Make sure to credit me as the owner of this work.
+
+------------------------------------------------------------------------
+More information about TakeNode Certificates? Check https://takenode.org
+------------------------------------------------------------------------
