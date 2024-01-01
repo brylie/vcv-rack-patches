@@ -1,0 +1,33 @@
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Recorder
+    Recorder
+VCV: VCV Host (https://vcvrack.com/Host)
+    Host
+VCV: VCV Free (https://vcvrack.com/Free)
+    Scope
+VCV: VCV Core
+    Audio 2
+    MIDI Map
+Surge XT: Surge XT (https://surge-synthesizer.github.io/)
+    Delay
+    EG x VCA
+    Wavetable VCO
+Seaside Modular: Seaside Modular (https://github.com/abluenautilus/SeasideModularVCV)
+    Tala
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    EqMaster
+    MixMasterJr
+Impromptu: Impromptu
+    Clocked
+Hampton Harmonics: Hampton Harmonics (https://gitlab.com/hampton-harmonics/hampton-harmonics-modules)
+    Progress
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Fade-in/Fade-out and Record Controller
+    Switch 8-1
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    LMTR
+    WALK2
